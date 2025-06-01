@@ -1,12 +1,4 @@
-# Project7
-Project of Day 7 of 10 Days Django Workshop
 
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
+# 🔗 GitHub
 
-The following dependencies are required (requirements.txt):
-
-   ```txt
-   Django>=4.0,<5.0
-   python-decouple>=3.8
+📍 [GitHub Repository Link](https://github.com/prakritiadhikari01/clean_django)
