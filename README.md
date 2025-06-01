@@ -5,8 +5,8 @@ Project of Day 7 of 10 Days Django Workshop
    ```bash
    pip install -r requirements.txt
 
-The following dependencies are required (requirements.txt):
+   The following dependencies are required (requirements.txt):
 
-```txt
-Django>=4.0,<5.0
-python-decouple>=3.8
+   ```txt
+   Django>=4.0,<5.0
+   python-decouple>=3.8
